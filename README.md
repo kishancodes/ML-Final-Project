@@ -7,7 +7,11 @@ The data set used can be found below:
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 Right now its just the part 1 of the final project requirments. I will include the document as ML.pdf .
-
 The file is still incomplete from the step of finding relationships and plotting data, and describing the findings.
 
-I had some problem with plotting age chart. Will get it resolves ASAP.
+- I had some problem with plotting age chart. Will get it resolves ASAP.
+* I am using classification method.
+- Waiting on usage of label-encoded/ hot-encoded columns.
+- Waiting on normalization.
+- Implementing sklearn for linear-RE, supervised learning, and decision tree classifier.
+- Waiting on model.score for accuracy
